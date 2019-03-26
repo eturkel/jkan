@@ -8,6 +8,8 @@ resources:
     url: 'https://data.delaware.gov/api/views/krpv-uu7g/rows.csv?accessType=DOWNLOAD'
     format: csv
 license: ''
+category:
+  - Education
 maintainer: ''
 maintainer_email: ''
 ---
